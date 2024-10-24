@@ -1,4 +1,3 @@
-import csv
 import qrcode
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
